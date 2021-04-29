@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/giphy-search-app/static/css/main.c423fe35.chunk.css",
+    "main.js": "/giphy-search-app/static/js/main.d40eaf5e.chunk.js",
+    "main.js.map": "/giphy-search-app/static/js/main.d40eaf5e.chunk.js.map",
+    "runtime-main.js": "/giphy-search-app/static/js/runtime-main.f9eb2d1e.js",
+    "runtime-main.js.map": "/giphy-search-app/static/js/runtime-main.f9eb2d1e.js.map",
+    "static/js/2.53f0f0b3.chunk.js": "/giphy-search-app/static/js/2.53f0f0b3.chunk.js",
+    "static/js/2.53f0f0b3.chunk.js.map": "/giphy-search-app/static/js/2.53f0f0b3.chunk.js.map",
+    "index.html": "/giphy-search-app/index.html",
+    "static/css/main.c423fe35.chunk.css.map": "/giphy-search-app/static/css/main.c423fe35.chunk.css.map",
+    "static/js/2.53f0f0b3.chunk.js.LICENSE.txt": "/giphy-search-app/static/js/2.53f0f0b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9eb2d1e.js",
+    "static/js/2.53f0f0b3.chunk.js",
+    "static/css/main.c423fe35.chunk.css",
+    "static/js/main.d40eaf5e.chunk.js"
+  ]
+}
